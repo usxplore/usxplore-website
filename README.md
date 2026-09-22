@@ -8,7 +8,10 @@ application, and scholarship consultancy.
 
 ## Notes
 
-- Single-page site. SEO work planned via Google AI Studio.
+- Static site with a homepage, a Dhaka-focused service landing page and a USA
+  scholarships page for Bangladeshi students.
+- SEO includes unique metadata, canonical URLs, Organization/Service/FAQ schema,
+  robots.txt, sitemap.xml and honest remote-service wording for Dhaka.
 - Deployed to Cloudflare Workers (static asset).
 
 © US Xplore Limited
